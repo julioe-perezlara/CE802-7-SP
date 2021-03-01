@@ -1,2 +1,2 @@
 # CE802-7-SP
- Machine Learning Module
+Public Github repository for teaching and labs of module: Machine Learning
